@@ -1,3 +1,5 @@
+## Phase 1 - The initial idea
+
 I would like to create a database centered around the American mixed martial arts promotion **Ultimate Fighting Championship (UFC)**. <br>
 
 The UFC has been organizing events since 1993, beginning with UFC 1. Each event consists of multiple individual fights between professional fighters.
