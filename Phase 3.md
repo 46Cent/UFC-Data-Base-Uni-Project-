@@ -18,13 +18,12 @@ erDiagram
     }
 
     KAMPF {
-        int ID PK
+        string ID PK
         int Rundenzahl
         string Ergebnisart
         int Siegrunde
         int Siegminute
         boolean Titelkampf
-        string Card_Typ "Main- / Undercard"
     }
 
     KAEMPFER {
