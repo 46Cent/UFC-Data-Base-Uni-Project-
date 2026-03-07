@@ -1,4 +1,4 @@
-```
+```mermaid
 erDiagram
     LAND ||--o{ EVENT : "findet statt in"
     LAND ||--o{ KAEMPFER : "vertritt"
