@@ -2,19 +2,23 @@
 
 This repository contains the design and implementation of a relational database created as part of the university course *Entwurf und Umsetzung von Datenbanken*. The project covers the full database development process, including conceptual modeling, schema design, data integration, and query implementation.
 
-The database focuses on mixed martial arts (MMA) data and includes structured information about fighters, fights, events, and weight classes. The repository documents the transformation from an initial conceptual model (ER diagram) to a normalized relational schema and demonstrates how the database can be populated and queried using SQL.
+I used [this](https://www.kaggle.com/datasets/aminealibi/ufc-fights-fighters-and-events-dataset) dataset from the american Mixed-Martial-Arts promotion "UFC". It includes structured information about fighters, fights, events, and weight classes. The repository documents the creaton process of the final SQL database which was constructed in 7 phases:
 
-### 📦 Contents
+### 🌑 Phases
 
-*   **🧩 Conceptual modeling** (ER diagrams)
+*   **💡 Phase 1:** Die Idee
 
-*   **🗂️ Relational schema design** and normalization
+*   **📜 Phase 2:** Anforderungsanalyse
 
-*   **🛠️ SQL scripts** for table creation and data manipulation
+*   **📊 Phase 3:** ER-Diagramm
 
-*   **📊 Example queries** for analyzing the dataset
+*   **📐 Phase 4:** Logischer Entwurf
 
-*   **📝 Documentation** of design decisions throughout the project  
+*   **🛠️ Phase 4.1:** Datenaufbereitung
+
+*   **🗃️ Phase 5: Physischer Entwurf** of design decisions throughout the project
+
+*   **📥 Phase 6:** Queries
 <br>
 
 **🎯 Goal** <br>
