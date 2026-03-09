@@ -1,11 +1,9 @@
 ## Phase 1 - The initial idea
 
-I would like to create a database centered around the American mixed martial arts promotion **Ultimate Fighting Championship (UFC)**. <br>
+Ich möchte eine Datenbank rund um die amerikanische Mixed-Martial-Arts-Organisation Ultimate Fighting Championship (UFC) erstellen. Die UFC veranstaltet seit 1993, beginnend mit UFC 1, regelmäßig Events. Jedes Event besteht aus mehreren einzelnen Kämpfen zwischen professionellen Kämpfern.
 
-The UFC has been organizing events since 1993, beginning with UFC 1. Each event consists of multiple individual fights between professional fighters.
-Fights can be won either by **decision** (determined by judges’ scorecards) or by **finish**, such as a **knockout** (KO) or submission (e.g., chokeholds or joint locks).
-In rare cases fights might end in other ways, e.g. in case of an accidental injury.
-When a fight ends before the scheduled time limit, the specific round and minute of the finish are recorded. <br>
+Kämpfe können entweder durch eine Decision (Punktrichterentscheidung) oder durch einen vorzeitigen Finish, beispielsweise durch Knockout (KO) oder Submission (z. B. Würgegriffe oder Hebeltechniken), entschieden werden. Endet ein Kampf vor Ablauf der regulären Zeit, werden zusätzlich die Runde und Minute des Sieges erfasst.
 
-In addition to sporting outcomes, various **event-level data** are available, including **revenue figures**, **audience attendance**, and the **location** where the event took place.
-The database will also include detailed information about the **fighters and their characteristics**, such as **weight, height, age, reach (arm length)**, and **fighting stance** (orthodox or southpaw). Beyond these physical attributes, aspects of a **fighter’s performance** inside the octagon can also be quantified, for example **significant strikes landed per minute**, **takedown success rate**, **and other** performance metrics. Finally, the database will store **fundamental career statistics** such as the **number of wins and losses** for each fighter.
+Neben den sportlichen Ergebnissen stehen auch verschiedene Event-bezogene Daten zur Verfügung, etwa Einnahmen, Zuschauerzahlen sowie der Austragungsort des jeweiligen Events.
+
+Darüber hinaus soll die Datenbank detaillierte Informationen über die Kämpfer und ihre Eigenschaften enthalten, beispielsweise Gewicht, Größe, Alter, Reichweite (Armlänge) und Auslage (Orthodox oder Southpaw). Neben diesen physischen Merkmalen lassen sich auch Aspekte der Leistung im Kampf quantifizieren, etwa signifikante Treffer pro Minute, die Erfolgsquote von Takedowns sowie weitere Leistungskennzahlen. Schließlich werden auch grundlegende Karrierestatistiken wie die Anzahl der Siege und Niederlagen eines Kämpfers gespeichert.
