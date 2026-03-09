@@ -1,4 +1,4 @@
-# UFC Database [Uni-Project]
+# UFC Database [Uni-Project] (🇩🇪)
 
 This repository contains the design and implementation of a relational database created as part of the university course *Entwurf und Umsetzung von Datenbanken*. The project covers the full database development process, including conceptual modeling, schema design, data integration, and query implementation.
 
